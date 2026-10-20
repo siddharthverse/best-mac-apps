@@ -37,6 +37,8 @@ A curated list of the best macOS apps for productivity, development, design, and
 - [Tower](https://www.git-tower.com) - Powerful Git client.
 - [Dash](https://kapeli.com/dash) - Offline API documentation browser and snippet manager.
 
+- [Glim](https://github.com/NeoPanic/Glim) - macOS viewer for Markdown, PDFs, data files and source code, with basic text editing.
+
 ## Utilities
 
 - [Rectangle](https://rectangleapp.com) - Free, open-source window management with keyboard shortcuts.
