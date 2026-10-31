@@ -45,6 +45,7 @@ A curated list of the best macOS apps for productivity, development, design, and
 - [Maccy](https://maccy.app) - Lightweight, open-source clipboard manager.
 - [AltTab](https://alt-tab-macos.netlify.app) - Windows-style alt-tab window switcher with previews.
 - [Stats](https://github.com/exelban/stats) - System monitor in your menu bar.
+- [Kilobat](https://kilobat.app/) - Menu-bar network monitoring, connection diagnostics, and keep-awake tools for macOS.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - Thoroughly uninstall apps along with their leftover files.
 - [Keka](https://www.keka.io) - File archiver supporting 7z, zip, rar, and more.
 - [The Unarchiver](https://theunarchiver.com) - Unpack almost any archive format.
